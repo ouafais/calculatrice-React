@@ -2,7 +2,7 @@ import React, { Component } from "react";
 
 import Button from '../component/Button'
 
-import './Clavier.css'
+
 
 class Clavier extends Component{
 
