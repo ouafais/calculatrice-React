@@ -1,4 +1,6 @@
 .calculatrice {
+  display: flex;
+  flex-direction: column;
   /* on determine la taille de notre calculatrice */
   width: 340px;
   height: 540px;

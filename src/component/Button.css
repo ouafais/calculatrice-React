@@ -1,0 +1,35 @@
+.Keybord {
+  width: 50px;
+  height: 50px;
+  margin: 15px;
+  border-radius: 50%;
+  border-width: 0;
+  font-weight: bold;
+  font-size: 17px;
+
+  cursor: pointer;
+}
+
+.Keybord:active {
+  font-size: 13px;
+}
+
+.Keybord:focus {
+  outline: 0;
+}
+
+.operateurKeys {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.operateur {
+  background-color: rgb(245, 210, 197);
+}
+.nombre {
+  background-color: rgb(200, 194, 245);
+}
+
+.nombreKeys {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
