@@ -1,0 +1,16 @@
+.Memory {
+  text-align: right;
+  border: black 10px;
+  height: 20px;
+  margin: 0 20px;
+  padding-top: 20px;
+  font-size: 15px;
+  color: #919191;
+}
+
+.Saisie {
+  text-align: right;
+  height: 60px;
+  margin: 10px 20px;
+  font-size: 25px;
+}

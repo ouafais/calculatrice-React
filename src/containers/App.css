@@ -1,0 +1,15 @@
+.calculatrice {
+  /* on determine la taille de notre calculatrice */
+  width: 340px;
+  height: 540px;
+  background-color: rgb(227, 248, 246);
+  /* pour centrer notre calculatrice au milieu de la page */
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -260px;
+  margin-left: -160px;
+  /* fin des commande pour centrer*/
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
+}
